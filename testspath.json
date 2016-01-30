@@ -1,0 +1,40 @@
+[
+    {
+        "comment":     "#root is defined in resloader.js as the relative path from the resloader.js file to the root of the project  RESLOADER_PATH_TO_ROOT = ../../../"
+    },
+    {
+        "packagePath": "#testsroot",
+        "resPath":     "#root/tests/"
+    },
+    {
+        "packagePath": "ttst",
+        "resPath":     "#root/tests/ttst/"
+    },
+    {
+        "packagePath": "general",
+        "resPath":     "#root/tests/general/"
+    },
+    {
+        "packagePath": "common",
+        "resPath":     "#root/tests/common/"
+    },
+    {
+        "packagePath": "housekeeping",
+        "resPath":     "#root/tests/housekeeping/"
+    },
+    {
+        "packagePath": "releasing",
+        "resPath":     "#root/tests/releasing/"
+    },
+    {
+        "packagePath": "cleanup",
+        "resPath":     "#root/tests/cleanup/"
+    },
+
+
+    {
+        "packagePath": "selenium-host",
+        "resPath":     "#root/tests/selenium/"
+    }
+
+]

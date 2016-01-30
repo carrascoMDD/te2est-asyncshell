@@ -1,0 +1,82 @@
+{
+  "name": "asyncshell",
+  "version": "0.3.16",
+  "description": "Asynchronous shell and components for End2end test of JSON APIs and AngularJS user interfaces.",
+  "keywords": [
+    "end2end",
+    "asynchronous",
+    "async",
+    "test",
+    "testing",
+    "API",
+    "JSON",
+    "angular",
+    "protractor",
+    "jasmine",
+    "webdriver",
+    "webdriverjs",
+    "selenium"
+  ],
+  "homepage": "http://github.com/carrascoMDD/asyncshell",
+  "bugs": {
+    "url": "http://github.com/carrascoMDD/asyncshell/issues"
+  },
+  "license": "EUPL-1.1",
+  "author": {
+    "name": "Antonio Carrasco Valero",
+    "email": "carrascomdd@gmail.com"
+  },
+  "files": [
+    "lib",
+    "tests",
+    "launch-tests",
+    "cmppath.json",
+    "testspath.json",
+    "custom.js",
+    "custom_logpassed.js",
+    "custom_logalot.js",
+    "overrides.js",
+    "overrides_logpassed.js",
+    "overrides_logalot.js",
+    "LICENCIA",
+    "serverdef.json"
+  ],
+  "main": null,
+  "bin": null,
+  "man": null,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/carrascoMDD/asyncshell.git"
+  },
+  "scripts": {},
+  "config": {},
+  "dependencies": {
+    "body-parser": "1.9.0",
+    "dicom-data-dictionary": "0.3.1",
+    "dicom-parser": "1.2.0",
+    "errorhandler": "1.2.0",
+    "express": "4.9.4",
+    "minimist": "1.1.1",
+    "osenv": "0.1.3",
+    "parse-filepath": "0.6.3",
+    "protractor-relaunchable": "0.0.1",
+    "request": "2.44.0"
+  },
+  "devDependencies": {
+  },
+  "bin": {
+  },
+  "scripts": {
+  },
+  "webdriverVersions": {
+    "selenium": "2.43.1",
+    "chromedriver": "2.10",
+    "iedriver": "2.43.0"
+  },
+  "maintainers": [
+    {
+      "name": "Antonio Carrasco Valero",
+      "email": "carrascomdd@gmail.com"
+    }
+  ]
+}

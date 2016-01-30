@@ -1,0 +1,22 @@
+[
+    {
+        "comment":     "#root is defined in resloader.js as the relative path from the resloader.js file to the root of the project  RESLOADER_PATH_TO_ROOT = ../../../"
+    },
+    {
+        "packagePath": "common-test",
+        "resPath":     "#root/lib/common-test/"
+    },
+    {
+        "packagePath": "ttst",
+        "resPath":     "#root/lib/ttst/"
+    },
+    {
+        "packagePath": "general-test",
+        "resPath":     "#root/lib/general-test/"
+    },
+
+    {
+        "packagePath": "browser-test",
+        "resPath":     "#root/lib/browser-test/"
+    }
+]
